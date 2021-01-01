@@ -1,1 +1,1 @@
-Simple Calculator
+An unconventional calculator written in jacascript
